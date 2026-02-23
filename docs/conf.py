@@ -29,8 +29,8 @@ source_suffix = {
 root_doc = 'index'
 
 # Add icon
-html_static_path = ['.']
-html_favicon = 'sbc_icon.png'
+html_static_path = ['assets']
+html_favicon = 'assets/sbc_icon.png'
 
 # Set each section is a chapter in pdf file
 latex_toplevel_sectioning = 'chapter'

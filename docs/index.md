@@ -1,4 +1,4 @@
-# <img src="docs/sbc_icon.png" width=40 height=40> SBC LAr10ana
+# <img src="_static/sbc_icon.png" width=40 height=40> SBC LAr10ana
 
 Welcome to the documentation page of SBC LAr10ana, the analysis pipeline for the Scintillating Bubble Chamber experiment. The code repository is hosted [here](https://github.com/SBC-Collaboration/LAr10Ana).
 
